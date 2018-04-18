@@ -62,7 +62,7 @@
         }
     },
     "logo": {
-          "source": "images/logo.png",
+          "source": "images/logo-2.svg",
           "href": "http://cocoonlabs.io"
     },
     "disable save as draft": false,
